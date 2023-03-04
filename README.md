@@ -2,6 +2,12 @@
 
 ![VIM](https://dnp4pehkvoo6n.cloudfront.net/43c5af597bd5c1a64eb1829f011c208f/as/Ultimate%20Vimrc.svg)
 
+In case the vim version used is the small version without GUI, make sure to do the following,
+```
+sudo apt-get install vim-gui-common
+sudo apt-get install vim-runtime
+```
+
 
 ## Install the Basic version for servers
 
