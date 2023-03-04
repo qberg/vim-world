@@ -81,6 +81,8 @@ set mat=2         " How many tenths of a second to blank when matching brackets
 set showmode      " Always show mode
 set splitbelow    " Split new window below current window
 set splitright    " Split new window right of current window
+set number
+set relativennumber
 
 "" Don't use arrow keys
 map <up> <nop>
